@@ -36,5 +36,4 @@
 算能科技、TRAE、地瓜机器人、非夕科技、Seeed Studio、拓竹 Cyberbrick、云鲸智能
 
 ### 社区伙伴
-观潮KwanTeo、深圳科创学院、AIAgent2025
-观潮KwanTeo、0penBuild、硅星人、深圳科创学院、AIAgent2025
+观潮KwanTeo、OpenBuild、硅星人、深圳科创学院、AIAgent2025
